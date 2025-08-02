@@ -1,0 +1,2 @@
+com\example\byte_buddy\MyAgent.class
+com\example\byte_buddy\AdviceInterceptor.class
